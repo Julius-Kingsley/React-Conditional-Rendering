@@ -12,7 +12,7 @@ const ConditionalRendering2 = () => {
 
   return (
     <>
-      <h1 className="text-center text-warning bg-dark p-3">E-Commerce</h1>
+      <h1 className="text-center text-dark bg-info p-3">E-Commerce</h1>
       <div className="container">
         <button
           className="btn btn-primary"
