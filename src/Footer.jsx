@@ -31,12 +31,12 @@ const Footer = () => {
               </li>
               <li className="mb-2">
                 <a href="#about" className="text-decoration-none text-muted">
-                  About Us
+                  About
                 </a>
               </li>
               <li className="mb-2">
                 <a href="#contact" className="text-decoration-none text-muted">
-                  Contact Us
+                  Contact
                 </a>
               </li>
             </ul>
@@ -65,11 +65,6 @@ const Footer = () => {
                   className="text-decoration-none text-muted"
                 >
                   Lifestyle
-                </a>
-              </li>
-              <li className="mb-2">
-                <a href="#laptops" className="text-decoration-none text-muted">
-                  Laptops
                 </a>
               </li>
             </ul>

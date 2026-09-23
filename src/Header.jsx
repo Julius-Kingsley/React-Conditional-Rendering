@@ -37,6 +37,11 @@ const Header = () => {
                   Pricing
                 </a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#">
+                  winter_special
+                </a>
+              </li>
             </ul>
           </div>
         </div>

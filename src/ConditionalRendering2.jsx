@@ -15,7 +15,7 @@ const ConditionalRendering2 = () => {
       <h1 className="text-center text-dark bg-info p-3">E-Commerce</h1>
       <div className="container">
         <button
-          className="btn btn-primary"
+          className="btn btn-success"
           onClick={() => {
             setProducts(true);
             setElectronics(false);
