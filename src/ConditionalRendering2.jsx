@@ -67,7 +67,7 @@ const ConditionalRendering2 = () => {
         </button>
         &nbsp;
         <button
-          className="btn btn-success"
+          className="btn btn-danger"
           onClick={() => {
             setProducts(false);
             setElectronics(false);
